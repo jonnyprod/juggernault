@@ -182,6 +182,7 @@ li.account{
   margin-left: 10%;
   list-style: circle;
   font-weight: 700;
+  word-wrap: break-word;
 }
 .deposit-img{
   width: 100%;
